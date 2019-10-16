@@ -1,0 +1,9 @@
+python3 -m venv venv
+venv\Scripts\activate
+
+set "FLASK_APP=main.py"
+set "FLASK_ENV=development"
+
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/queries/
+https://stackoverflow.com/questions/15122312/how-to-import-from-config-file-in-flask
+https://stackoverflow.com/questions/1436703/difference-between-str-and-repr
